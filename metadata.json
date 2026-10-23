@@ -1,0 +1,6 @@
+{
+  "name": "Dream Properties Limited - Real Estate Marketplace",
+  "description": "Comprehensive real estate marketplace for Bangladesh with property listings, buy & rent search, user posting, admin review suite, and site visit scheduling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
